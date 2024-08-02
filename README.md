@@ -33,10 +33,10 @@ A high-performance, server-rendered Next.js e-commerce application integrated wi
 
 3. Create a `.env.local` file in the root directory and add your environment variables based on `.env.example`.
 
-### Running the Development Server
+### Contributing
+Contributions are welcome! Please submit issues and pull requests to the repository.
 
-Start the development server:
-```bash
-npm run dev
-# or
-yarn dev
+### Authors
+Abhishek Kumar: Initial work and project setup and working... more
+
+Feel free to copy and use this format!
