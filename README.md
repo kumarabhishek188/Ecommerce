@@ -1,2 +1,42 @@
-# Ecommerce
-Next.js Commerce is a high-performance, server-rendered e-commerce application built with Next.js, utilizing Tailwind CSS for styling and Prettier for code formatting. This project aims to provide a seamless and optimized shopping experience with modern web technologies. It leverages Next.js for server-side rendering, enhancing performance and SEO.
+# Next.js Commerce
+
+A high-performance, server-rendered Next.js e-commerce application integrated with Tailwind CSS and Prettier, deployed on Vercel.
+
+## Features
+
+- **Next.js**: Server-rendered React applications with optimized performance.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **Prettier**: Code formatter for consistent code style.
+- **Vercel**: Seamless deployment and hosting platform.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/vercel/commerce.git
+    cd commerce
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3. Create a `.env.local` file in the root directory and add your environment variables based on `.env.example`.
+
+### Running the Development Server
+
+Start the development server:
+```bash
+npm run dev
+# or
+yarn dev
