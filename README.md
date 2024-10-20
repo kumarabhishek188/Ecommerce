@@ -21,7 +21,7 @@ A high-performance, server-rendered e-commerce application integrated with Tailw
 1. Clone the repository:
     ```bash
     git clone https://github.com/kumarabhishek188/Ecommerce.git
-    cd commerce
+    cd Ecommerce
     ```
 
 2. Demo Link:
