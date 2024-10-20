@@ -26,7 +26,7 @@ A high-performance, server-rendered e-commerce application integrated with Tailw
 
 2. Demo Link:
 
-You can view a live demo of the Resume Builder here: [https://knighthood-ecommers.vercel.app/]
+You can view a live demo of the Ecommerce Website here: [https://knighthood-ecommers.vercel.app/]
 
 3. Install dependencies:
     ```bash
