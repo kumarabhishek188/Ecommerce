@@ -1,6 +1,6 @@
-# Next.js Commerce
+# Ecommerce Website
 
-A high-performance, server-rendered Next.js e-commerce application integrated with Tailwind CSS and Prettier, deployed on Vercel.
+A high-performance, server-rendered e-commerce application integrated with Tailwind CSS and Prettier, deployed on Vercel.
 
 ## Features
 
@@ -20,11 +20,15 @@ A high-performance, server-rendered Next.js e-commerce application integrated wi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vercel/commerce.git
+    git clone https://github.com/kumarabhishek188/Ecommerce.git
     cd commerce
     ```
 
-2. Install dependencies:
+2. Demo Link:
+
+You can view a live demo of the Resume Builder here: [https://knighthood-ecommers.vercel.app/]
+
+3. Install dependencies:
     ```bash
     npm install
     # or
